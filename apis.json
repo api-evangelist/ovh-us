@@ -1,0 +1,51 @@
+{
+    "name": "OVH US",
+    "description": "OVH is a global, hyper-scale cloud provider delivering best-in-class hosted private cloud, public cloud, and dedicated server solutions. We just opened our first U.S. data center; learn more about our limited time introductory offer!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28179-ovhcloud-com.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "cloud",
+        "have api",
+        "isp"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ovh-us\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OVH US",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28179-ovhcloud-com.jpg",
+            "humanURL": "https:\/\/ovhcloud.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ovh-us-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ovh-us"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/ovhcloud.com\/resources\/api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ovh_us"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/ovhcloud.com"
+        }
+    ]
+}
